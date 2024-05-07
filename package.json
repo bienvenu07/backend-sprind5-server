@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node": "^22.1.0",
+    "nodemon": "^3.1.0",
+    "none": "^1.0.0"
+  },
+  "name": "backend-prind5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node  server.js",
+    "start": "nodemon server.js",
+    "Dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Derick"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
