@@ -1,1 +1,0 @@
-# backend-sprind5-server
